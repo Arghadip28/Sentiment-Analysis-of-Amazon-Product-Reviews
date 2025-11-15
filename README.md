@@ -1,26 +1,31 @@
 # Sentiment-Analysis-of-Amazon-Product-Reviews
 
-##Installation and Setup
-###Clone the repository
-
+## Installation and Setup
+### Clone the repository
+```bash=
 git clone https://github.com/Arghadip28/Sentiment-Analysis-of-Amazon-Product-Reviews.git
 cd Sentiment-Analysis-of-Amazon-Product-Reviews
+```
 
-###Install dependencies
-
+### Install dependencies
+```bash=
 pip install -r requirements.txt
-###Run the Jupyter Notebooks
-Open and execute the notebooks in the notebooks/ directory for exploratory data analysis, preprocessing, and model training.
+```
 
-##Usage
-Run the notebooks or Python scripts for preprocessing and training.
+### Run the Jupyter Notebooks
+Open and execute the notebooks for exploratory data analysis, preprocessing, and model training.
 
-Predict sentiment by supplying new review texts.
+## Usage
+- Run the notebooks or Python scripts for preprocessing and training.
 
-Explore data visualizations and model evaluation outputs.
+- Predict sentiment by supplying new review texts.
 
-Modify or extend the code for additional NLP experiments.
+- Explore data visualizations and model evaluation outputs.
 
-##Contributions
-Contributions are welcome!
+- Modify or extend the code for additional NLP experiments.
+---
+
+## Contributions
+Contributions are welcome! :smile:
+
 Feel free to fork the repository, raise issues, or submit pull requests for improvements and bug fixes.
